@@ -168,7 +168,6 @@ document.getElementById("dropdown-menu").addEventListener('click', () => {
 
 document.getElementById("searchText").addEventListener('keyup', (evt) => {
     filterBy = evt.target.value;
-    console.log(filterBy);
     clearData();
     main();
 })
