@@ -1,0 +1,16 @@
+{
+    "airlines_data": [
+        {
+            "Code": "GA",
+            "Name": "Garuda Indonesia"
+        },
+        {
+            "Code": "SQ",
+            "Name": "Singapore Airlines"
+        },
+        {
+            "Code": "QZ",
+            "Name": "Air Asia Indonesia"
+        }
+    ]
+}
